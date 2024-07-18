@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: left;
+}
+h2{
+    text-align: left;
+}
+p{
+    text-align: left;
+}
+div{
+    align-items: left;
+    text-align: left;
+}
